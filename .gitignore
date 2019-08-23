@@ -1,0 +1,8 @@
+venv
+*.pyc
+.DS_Store
+.vscode
+dist
+build
+*.egg-info
+*.spec
